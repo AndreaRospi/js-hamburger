@@ -1,6 +1,6 @@
-const hMenu = document.querySelector('.fas fa-bars');
+const hMenu = document.querySelector('.fa-bars');
+console.log(hMenu);
 
 hMenu.addEventListener("click", function(){
-    alert('ciao')
     
 });
